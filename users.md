@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+  
+   Name: "Tanmay Joshi"  
+   Place: "Dublin"  
+   Bio: "1st year CS student, trying to understand the world of OpenSource"  
+   Github: [The-TJ](https://github.com/The-TJ)  
